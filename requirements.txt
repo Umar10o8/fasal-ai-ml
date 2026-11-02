@@ -1,0 +1,8 @@
+fastapi==0.139.2
+uvicorn[standard]==0.51.0
+python-multipart==0.0.32
+scikit-learn==1.8.0
+joblib==1.5.3
+pandas==3.0.2
+numpy==2.4.4
+Pillow==11.3.0
